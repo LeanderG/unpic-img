@@ -18,6 +18,20 @@
   * dependencies
     * @unpic/core bumped to 0.0.11
 
+## [0.0.5](https://github.com/LeanderG/unpic-img/compare/preact-v0.0.4...preact-v0.0.5) (2023-03-04)
+
+
+### Features
+
+* **preact:** add Preact support ([#30](https://github.com/LeanderG/unpic-img/issues/30)) ([79cd706](https://github.com/LeanderG/unpic-img/commit/79cd706c8977ae9ec4e511047a99c18a0ec0ade2))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @unpic/core bumped to 0.0.12
+
 ## 0.0.1 (2023-02-21)
 
 

@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.0.12](https://github.com/LeanderG/unpic-img/compare/core-v0.0.11...core-v0.0.12) (2023-03-04)
+
+
+### Features
+
+* add svelte and fix types ([7f9f428](https://github.com/LeanderG/unpic-img/commit/7f9f428bd66226ea9a3ddefc8f5908b58c2bb7ac))
+
+
+### Bug Fixes
+
+* **core:** fix aspect ratio calculation for srcset ([#60](https://github.com/LeanderG/unpic-img/issues/60)) ([126c6b8](https://github.com/LeanderG/unpic-img/commit/126c6b8398109359be283d6f7e14d956a0fd06eb))
+* **core:** no camelCase; use breakpoints; fix error on fullWidth & aspect-ratio ([#21](https://github.com/LeanderG/unpic-img/issues/21)) ([154ee5c](https://github.com/LeanderG/unpic-img/commit/154ee5cd7e7de264abcf673f98daabf607c5613c))
+* **core:** upgrade unpic ([#54](https://github.com/LeanderG/unpic-img/issues/54)) ([ff32ca3](https://github.com/LeanderG/unpic-img/commit/ff32ca3748061311020204930d7500e9454560d4))
+* pass `transformer` to srcset generate function ([#27](https://github.com/LeanderG/unpic-img/issues/27)) ([21f506d](https://github.com/LeanderG/unpic-img/commit/21f506d7737584f14faf2f82816c503cb7811019))
+* **vue:** handle string props ([#48](https://github.com/LeanderG/unpic-img/issues/48)) ([b62413d](https://github.com/LeanderG/unpic-img/commit/b62413d5d3b6345b28d54568b42d7450c241318a))
+
 ## [0.0.11](https://github.com/ascorbic/unpic-img/compare/core-v0.0.10...core-v0.0.11) (2023-03-01)
 
 
